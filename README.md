@@ -1,8 +1,8 @@
 # React Native Boston Meetup Files
 ## Slides
-PPT:
-PDF:
-Slideshare:
+* PPT:
+* PDF:
+* Slideshare:
 
 ## Useful Resources:
 * [react-native-swift on NPM](https://www.npmjs.com/package/react-native-swift)
