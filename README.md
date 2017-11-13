@@ -1,7 +1,7 @@
 # React Native Boston Meetup Files
 ## Slides
-* [PPT](./RN%20Swift%20Native%20ModulesRHD%20111517.pptx)
-* [PDF](./RN%20Swift%20Native%20ModulesRHD%20111517.pdf)
+* [PPT](./RN%20Swift%20Native%20Modules%20RHD%20111517.pptx)
+* [PDF](./RN%20Swift%20Native%20Modules%20RHD%20111517.pdf)
 * Slideshare:
 
 ## Useful Resources:
@@ -9,3 +9,6 @@
 
 * [Github repo](https://github.com/rhdeck/react-native-swift)
 * [React Native documentation on native modules in iOS](https://facebook.github.io/react-native/docs/native-modules-ios.html)
+
+https://github.com/rhdeck/rnboston/blob/master/RN%20Swift%20Native%20Modules%20RHD%20111517.pdf
+https://github.com/rhdeck/rnboston/blob/master/RN%20Swift%20Native%20ModulesRHD%20111517.pdf
