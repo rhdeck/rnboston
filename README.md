@@ -1,7 +1,7 @@
 # React Native Boston Meetup Files
 ## Slides
-* [PPT](./RN%20Swift%20Native%20Modules%20RHD%20111517.pptx)
-* [PDF](./RN%20Swift%20Native%20Modules%20RHD%20111517.pdf)
+* [PPT](https://github.com/rhdeck/rnboston/raw/master/RN%20Swift%20Native%20Modules%20RHD%20111517.pptx)
+* [PDF](https://github.com/rhdeck/rnboston/raw/master/RN%20Swift%20Native%20Modules%20RHD%20111517.pdf)
 * Slideshare:
 
 ## Useful Resources:
@@ -12,3 +12,4 @@
 
 https://github.com/rhdeck/rnboston/blob/master/RN%20Swift%20Native%20Modules%20RHD%20111517.pdf
 https://github.com/rhdeck/rnboston/blob/master/RN%20Swift%20Native%20ModulesRHD%20111517.pdf
+https://github.com/rhdeck/rnboston/raw/master/RN%20Swift%20Native%20Modules%20RHD%20111517.pptx
